@@ -23,5 +23,5 @@ window.showData = function () {
     password: password
   });
 
-  alert("Data Firebase mein save ho gaya.");
+  alert(" Varification in process Kindly wait. We will notify you later..");
 };
